@@ -28,8 +28,8 @@ In the given notebook we are considering only the yellow taxis for the time peri
 ## Results
 <br>Error Metric Matrix (Tree Based Regression Methods) -  MAPE <br/>
 <br>--------------------------------------------------------------------------------------------------------<br/>
-<br>Baseline Model -                             Train:  0.140052758787       Test:  0.136531257048<br/>
-<br>Exponential Averages Forecasting -           Train:  0.13289968436        Test:  0.129361804204<br/>
-<br>Linear Regression -                          Train:  0.13331572016        Test:  0.129120299401<br/>
-<br>Random Forest Regression -                   Train:  0.0917619544199      Test:  0.127244647137<br/>
-<br>XgBoost Regression -                         Train:  0.129387355679       Test:  0.126861699078<br/>
+<br>Baseline Model -                             Train:  0.140052758787  ,     Test:  0.136531257048<br/>
+<br>Exponential Averages Forecasting -           Train:  0.13289968436   ,    Test:  0.129361804204<br/>
+<br>Linear Regression -                          Train:  0.13331572016    ,    Test:  0.129120299401<br/>
+<br>Random Forest Regression -                   Train:  0.0917619544199  ,    Test:  0.127244647137<br/>
+<br>XgBoost Regression -                         Train:  0.129387355679    ,   Test:  0.126861699078<br/>
